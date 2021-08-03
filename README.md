@@ -8,3 +8,4 @@ Pequeño juego para poner en práctica los conceptos de JavaScript:
 5. Eventos
 6. Uso de librerías externas
 7. Arreglos
+8. Patrón módulo
