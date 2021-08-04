@@ -9,3 +9,5 @@ Pequeño juego para poner en práctica los conceptos de JavaScript:
 6. Uso de librerías externas
 7. Arreglos
 8. Patrón módulo
+9. Exportación de funciones en el patrón módulo
+10. Minificación de código
